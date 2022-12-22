@@ -1,6 +1,6 @@
 main {
     transform: translateY(2%);
-    width: 49%;
+    width: 70px;
     display: flex;
     margin: auto;
 }
