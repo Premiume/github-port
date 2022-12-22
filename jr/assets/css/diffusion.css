@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    height: 50%;
+    transform: translateY(50%);
+}
+
+.title h1 {
+    font-size: 2.3rem;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.text p {
+    line-height: 1.6;
+    font-size: 15px;
+    padding: 0px 7px;
+    border-left: 1px solid black;
+}
