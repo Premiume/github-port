@@ -1,8 +1,8 @@
 main {
     transform: translateY(2%);
     display: flex;
-/*     width: 70%;
-    margin: auto; */
+    width: 70%;
+    margin: auto;
 }
 
 .carte {
